@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Someapp</string>
+    <string name="edit_message">this is</string>
+    <string name="button_send">уничтожить мир</string>
+    <string name="action_add_entity">Добавить сущность</string>
+    <string name="action_add_category">Добавить категорию</string>
+    <string name="action_back">Назад</string>
+    <string name="findentity">Подобрать</string>
+    <string name="name">Name</string>
+    <string name="add_im">Добавить изображение</string>
+</resources>
